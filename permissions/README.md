@@ -9,3 +9,4 @@
 8-James_Bond - sets permission to no permission at all for user and group but all permission for other users
 9-John_Doe - sets mode of file Hello to -rwxr-x-wx
 10-mirror_permissions - sets the mode of the file hello the same as olleh’s mode
+11-directories_permissions - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
