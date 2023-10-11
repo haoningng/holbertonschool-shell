@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -E "\b[!characters]" /etc/ssh/sshd_config
+grep -E "\b[[:alpha:]]" /etc/ssh/sshd_config
